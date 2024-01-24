@@ -5,7 +5,20 @@
 <h2 align="left">Desenvolvedor Front-end</h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://img.shields.io/static/v1?label=Overview&message=ALEX SANTOS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<p align="left" max-width="300px">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+<p align="left" max-width="300px">
+  Após anos de experiência com liderança de equipes e gestão de recursos e projetos, tendo atuado com gestor em uma grande empresa do seguimento de transporte nacionalmente conhecida, decidi migrar para a área de 
+  tecnologia, e reviver um antigo sonho que havia em mim de trabalhar com tecnologia, algo que sempre foi meu universo. Sempre tiver como um dos pilares das minhas gestões, o uso da tecnologia, sempre buscando automatizar
+  processos, facilitar a dinâmica do dia a dia por meio da tecnologia. E então decidi viver isso mais a fundo, e trabalhar com o que amo de verdade!
+  Minha virada de chave se deu quando um amigo de um amigo, que é programador, me falou sobre trabalhar com programação, foi aí que eu comecei a estudar tecnologia novamente, desta vez mais voltado para o desenvolvimento de softwares, 
+  quando me deparei com o universo de possibilidades que isso me traria, e também com o extase de criar coisas e resolver problemas com teconologia, minha mente deu um "BUUUM", e então cai de cabeça nesse universo. 
+  Meu desejo, além de "ganhar a vida" trabalhando com o que amo, é transformar realidades por meio da tecnologia e tornar o mundo mais funcional e prático por meio de linhas de código. 
+  Aqui vou colocar meus projetos e também algumas dicas para quem está começando na área. <br>
+  Também tenho como hobby:<br>
+  📚 Ler bastante <br>
+  🎸 Música <br>
+  🔭 Astronomia <br>
+  <strong>Seja sempre bem-vindo e fique a vontade para entrar em contato! 😉</strong>
+</p>
 
 <h3>Minhas Skills</h3>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
