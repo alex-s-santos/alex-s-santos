@@ -7,10 +7,11 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=ALEX SANTOS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <p align="left" max-width="300px">
   Após anos de experiência com liderança de equipes e gestão de recursos e projetos, tendo atuado com gestor em uma grande empresa do seguimento de transporte nacionalmente conhecida, decidi migrar para a área de 
-  tecnologia, e reviver um antigo sonho que havia em mim de trabalhar com tecnologia, algo que sempre foi meu universo. Sempre tiver como um dos pilares das minhas gestões, o uso da tecnologia, sempre buscando automatizar
-  processos, facilitar a dinâmica do dia a dia por meio da tecnologia. E então decidi viver isso mais a fundo, e trabalhar com o que amo de verdade!
+  tecnologia, e reviver um antigo sonho que havia em mim de trabalhar com tecnologia, algo que sempre foi meu universo. Sempre tive como um dos pilares das minhas gestões, o uso da tecnologia, sempre buscando automatizar
+  processos, facilitar a dinâmica do dia-a-dia por meio da tecnologia. E então decidi viver isso mais a fundo, e trabalhar com o que amo de verdade!
   Minha virada de chave se deu quando um amigo de um amigo, que é programador, me falou sobre trabalhar com programação, foi aí que eu comecei a estudar tecnologia novamente, desta vez mais voltado para o desenvolvimento de softwares, 
-  quando me deparei com o universo de possibilidades que isso me traria, e também com o extase de criar coisas e resolver problemas com teconologia, minha mente deu um "BUUUM", e então cai de cabeça nesse universo. 
+  quando me deparei com o universo de possibilidades que isso me traria, e também com o extase de criar coisas e resolver problemas com teconologia, minha mente deu um "BUUUM", e então cai de cabeça nesse universo. Larguei a faculdade de 
+  Administração (que já era a segunda vez que estava cursando e teve uma de economia também), entrei na faculdade de <strong>Análise e Desenvolvimento de sistemas</strong>, e não parei mais de estudar.
   Meu desejo, além de "ganhar a vida" trabalhando com o que amo, é transformar realidades por meio da tecnologia e tornar o mundo mais funcional e prático por meio de linhas de código. 
   Aqui vou colocar meus projetos e também algumas dicas para quem está começando na área. <br>
   Também tenho como hobby:<br>
